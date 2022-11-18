@@ -209,7 +209,7 @@
   display: flex;
   margin: auto;
   width: 775px;
-  line-height: 1,15 ;
+  line-height: 1,15;
   font-size: 120px;
   font-weight: bold;
   z-index: 3;
@@ -226,7 +226,6 @@
   margin: auto;
   width: 387.5px;
   margin-top: 70px;
-  z-index: 3;
   text-align: center;
   justify-content: center;
   font-family: "Helvetica Neue", "Arial", "sansserif";
@@ -263,6 +262,7 @@
 }
 
 .kaufman__section-title--theme-dark {
+  text-align: center;
   width: 60%;
   line-height: 69px;
   font-size: 60px;
