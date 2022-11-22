@@ -93,7 +93,6 @@
 .description__content {
   display: flex;
   align-items: stretch;
-  flex-direction: row;
   justify-content: space-between;
   width: 80%;
   padding-top: 100px;
@@ -132,8 +131,6 @@
  }
 
  /* DIGITS */
- .digits {
- }
 
  .digits__section-title {
   width: 60%;
@@ -194,14 +191,13 @@
 
 /* Feynman */
 
-* {
-  border: 2px solid gold;
-}
+
 .feynman {
   position: relative;
   background-color: #F2F2F2;
   height: 790px;
   z-index: -2;
+  padding-top: 100px;
 }
 
 .feynman__title {
@@ -214,7 +210,6 @@
   font-weight: bold;
   z-index: 3;
   font-family: "Helvetica Neue", "Arial", "sansserif";
-  margin-top: 100px;
 }
 
 .feynman__subtitle {
