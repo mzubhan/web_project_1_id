@@ -1,0 +1,8 @@
+.header__link {
+    font-family: "Helvetica Neue", "Arial", "sansserif";
+    position: absolute;
+    bottom: 10px;
+    left: 64px;
+    color: #2F80ED;
+    text-decoration: none;
+    }

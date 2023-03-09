@@ -1,0 +1,8 @@
+.description__main-text {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    min-width: 784px;
+    align-content: space-between;
+    row-gap: 30px;
+  }

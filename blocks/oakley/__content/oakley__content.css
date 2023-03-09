@@ -1,0 +1,8 @@
+.oakley__content {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 80%;
+    padding-top: 160px;
+    padding-bottom: 80px;
+  }

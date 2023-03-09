@@ -1,0 +1,8 @@
+.description__content {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 80%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }

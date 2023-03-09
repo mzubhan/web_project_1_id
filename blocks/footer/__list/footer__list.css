@@ -1,0 +1,6 @@
+.footer__list {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 0px;
+  }

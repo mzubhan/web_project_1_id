@@ -1,0 +1,21 @@
+@import url(rotation.css);
+
+.header__square {
+    position: absolute;
+    height: 568px;
+    width: 568px;
+    background-color: #2F80ED;
+    top: 64px;
+    right: 0;
+    z-index: 1;
+    rotate: 15deg;
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+  }
+
+  
+  

@@ -1,0 +1,9 @@
+.header__title {
+    display: flex;
+    font-size: 102px;
+    font-weight: bold;
+    line-height: 96px;
+    width: 730px;
+    font-family: "Helvetica Neue", "Arial", "sansserif";
+    margin-left: 64px;
+  }

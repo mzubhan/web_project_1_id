@@ -1,0 +1,6 @@
+.video {
+    margin: center;
+    position: relative;
+    z-index: 1;
+    bottom: -60px;
+}
