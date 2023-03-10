@@ -1,8 +1,9 @@
-.digits__table__text {
+.table__text {
     display: flex;
+    margin-top: 20px;
+    padding: 0;
     line-height: 1,2px;
     font-size: 18px;
     font-weight: normal;
-    margin-top: 20px;
     font-family: "Helvetica Neue", "Arial", "sansserif";
    }
