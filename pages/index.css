@@ -11,7 +11,7 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/header/__main-ilustration/header__main-ilustration.css);
 @import url(../blocks/header/__square/header__square.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -39,10 +39,16 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_about.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__list/footer__list.css);
-@import url(../blocks/footer/__logo/footer__logo--place-footer.css);
-@import url(../blocks/footer/__social-icons/footer__column--content-social.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/footer/__social-icons/footer__social-icons.css);
 
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__cell/kaufman__cell--theme-dark.css);
@@ -68,9 +74,7 @@
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
-@import url(../blocks/video/__iframes/_iframe/video__iframes_iframe.css);
-@import url(../blocks/video/__section-subtitle/video__section-subtitle.css);
-@import url(../blocks/video/__section-title/video__section-title.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
 
 @import url(../blocks/oakley/oakley.css);
 
@@ -96,6 +100,8 @@
 @import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
+
+@import url(../blocks/logo/logo.css);
 
 * {
     border: red 1px solid;
