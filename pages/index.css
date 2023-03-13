@@ -102,7 +102,3 @@
 @import url(../blocks/table/_theme/table_theme_dark.css);
 
 @import url(../blocks/logo/logo.css);
-
-* {
-    border: red 1px solid;
-}
